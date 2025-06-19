@@ -1,34 +1,46 @@
 # 🔢 SeqSense
 
-A Flutter project focused on visualizing and experimenting with popular number sequences and mathematical algorithms. Built using FlutterFlow, this app provides a clean and interactive interface for exploring Collatz, Fibonacci, Lucas, Tribonacci, Pascal's Triangle, Euclidean Algorithm, and more.
+A Flutter application for visualizing and experimenting with popular number sequences and mathematical algorithms. Originally scaffolded with FlutterFlow and fully customized in Dart, **SeqSense** offers an intuitive UI for exploring:
+
+- **Fibonacci Sequence**
+- **Lucas Numbers**
+- **Tribonacci Sequence**
+- **Collatz Sequence (3n + 1)**
+- **Pascal’s Triangle**
+- **Euclidean GCD Algorithm**
 
 ## 🚀 Features
 
-- 📈 Interactive implementation of number sequences:
-    - Collatz Sequence
-    - Fibonacci Sequence
-    - Tribonacci Sequence
-    - Lucas Numbers
-    - Pascal's Triangle
-- 📐 Euclidean Algorithm visualization
-- 🛠️ Modular architecture with custom logic in `custom_code`
-- 🏠 Clean landing UI in `homepage`
-- 🔄 State management via `app_state.dart`
-- ⚙️ Built with FlutterFlow & customized in native Dart
+- 📈 Interactive calculators for each sequence/algorithm
+- 🔄 Real-time result display with scrollable containers for large outputs
+- 🎨 Consistent theming with custom cards, buttons, and typography
+- 🛠️ Modular code structure: UI, logic, and custom actions in `custom_code`
+- 🗺️ Named route navigation with smooth page transitions
+- 📦 State management via a central `app_state.dart`
 
-## 📂 Project Structure
+## 📋 Table of Contents
 
-```plaintext
-lib/
-├── collatz/              # Collatz sequence logic and UI
-├── custom_code/          # Custom functions or widgets
-├── euclidean/            # Euclidean algorithm visual
-├── fibonacci/            # Fibonacci-related logic
-├── flutter_flow/         # FlutterFlow auto-generated files
-├── homepage/             # App landing page
-├── lucas/                # Lucas number logic
-├── pascal_triangle/      # Pascal triangle generation
-├── tribonacci/           # Tribonacci logic and UI
-├── app_state.dart        # App-wide state management
-├── index.dart            # Widget index or navigation
-└── main.dart             # App entry point
+- [Demo Screenshot](#demo-screenshot)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## 📸 Demo Screenshot
+
+![SeqSense Demo](assets/screenshots/homepage_demo.png)
+
+## 📦 Prerequisites
+
+- Flutter SDK ≥ 3.0
+- Dart ≥ 2.18
+- An IDE like Android Studio, IntelliJ, or VS Code
+- (Optional) FlutterFlow account if you plan to re-export changes
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/seqsense.git
+   cd seqsense
