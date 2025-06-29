@@ -29,7 +29,10 @@ A Flutter application for visualizing and experimenting with popular number sequ
 
 ## 📸 Demo Screenshot
 
-![SeqSense Demo](assets/screenshots/homepage_demo.png)
+![SeqSense Demo](assets/screenshots/1.jpg)
+![SeqSense Demo](assets/screenshots/2.jpg)
+![SeqSense Demo](assets/screenshots/3.jpg)
+![SeqSense Demo](assets/screenshots/4.jpg)
 
 ## 📦 Prerequisites
 
@@ -44,3 +47,4 @@ A Flutter application for visualizing and experimenting with popular number sequ
    ```bash
    git clone https://github.com/<your-username>/seqsense.git
    cd seqsense
+   ```
