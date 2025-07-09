@@ -43,9 +43,9 @@ A Flutter application for visualizing and experimenting with popular number sequ
 
 ## 🤝 Collaborators & Developers
 
-Ken Patrick Garcia: Project Leader & Full-Stack Developer
-Brian Ashley Papa: Backend Developer
-Mars Maguddayao: Researcher
+- Ken Patrick Garcia: Project Leader & Full-Stack Developer
+- Brian Ashley Papa: Backend Developer
+- Mars Maguddayao: Researcher
 
 ## 🍴 Fork the repo
 
