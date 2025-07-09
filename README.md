@@ -41,9 +41,13 @@ A Flutter application for visualizing and experimenting with popular number sequ
 - An IDE like Android Studio, IntelliJ, or VS Code
 - (Optional) FlutterFlow account if you plan to re-export changes
 
-##🤝 Contributing
+## 🤝 Collaborators & Developers
 
-🍴 Fork the repo
+Ken Patrick Garcia: Project Leader & Full-Stack Developer
+Brian Ashley Papa: Backend Developer
+Mars Maguddayao: Researcher & UI Designer
+
+##🍴 Fork the repo
 
 - 🔄 Create feature branch: git checkout -b feature/YourFeature
 - 📝 Commit changes: git commit -m 'Add some feature'
