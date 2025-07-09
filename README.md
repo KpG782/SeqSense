@@ -45,9 +45,9 @@ A Flutter application for visualizing and experimenting with popular number sequ
 
 Ken Patrick Garcia: Project Leader & Full-Stack Developer
 Brian Ashley Papa: Backend Developer
-Mars Maguddayao: Researcher & UI Designer
+Mars Maguddayao: Researcher
 
-##🍴 Fork the repo
+## 🍴 Fork the repo
 
 - 🔄 Create feature branch: git checkout -b feature/YourFeature
 - 📝 Commit changes: git commit -m 'Add some feature'
